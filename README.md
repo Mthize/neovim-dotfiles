@@ -4,9 +4,11 @@ Welcome to my **Neovim configuration**, crafted for modern **web development**. 
 
 > ⚡ Blazing fast | 🧠 LSP powered | 🎈 Modern UI | 🧹 Plugin-rich | 🌍 Web Dev Ready
 
-![Dashboard](./screenshots/dashboard.png)
-![LSP](./screenshots/lsp-ts.png)
+### Startup screen
+![Neovim dashboard](screenshots/swappy-20250707-212537.png)
 
+### LSP + File Explorer in action
+![Neovim LSP config](screenshots/swappy-20250707-212703.png)
 ---
 
 ## ✨ Key Features
@@ -75,7 +77,7 @@ Make sure you have:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/nvim-webdev ~/.config/nvim
+git clone https://github.com/Mthize/neovim-dotfiles ~/.config/nvim
 ```
 
 Then open Neovim and let `lazy.nvim` handle the rest.
@@ -101,6 +103,7 @@ Then open Neovim and let `lazy.nvim` handle the rest.
 | Dashboard                            | JS/TS LSP                        | Tailwind Preview                        |
 | ------------------------------------ | -------------------------------- | --------------------------------------- |
 | ![dash](./screenshots/dashboard.png) | ![lsp](./screenshots/lsp-ts.png) | ![tailwind](./screenshots/tailwind.png) |
+
 
 ---
 
